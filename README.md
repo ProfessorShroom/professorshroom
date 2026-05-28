@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm a computer technician, gamer, car enthusiast, designer and very occasional coder.<br>I often start projects for my current needs in computers or my cars. So this is a place for my current, future and past projects!</p>
+<p align="left">I'm a computer technician, gamer, car enthusiast, collector, occasional designer and coder.<br>I often start projects for my current needs in computers or my cars. So this is a place for my current, future and past projects!</p>
 
 ###
 

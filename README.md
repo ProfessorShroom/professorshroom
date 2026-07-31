@@ -43,13 +43,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
   <img width="12" />
@@ -77,6 +75,8 @@
 
 - **[PlutoPoint Automatic Software Installer](https://github.com/ProfessorShroom/PlutoPoint-Installer)** *(Computer Repair Centre Installer)* <br>
   A GUI built in C# for installing various user-selected software and options for new Windows 10 & 11 installations.
+- **[PlutoPoint ARK: Survival Evolved Server Manager](https://github.com/ProfessorShroom/PlutoPoint-ASE-Server-Manager)** <br>
+  A docker web based interface to install, manage, modify and backup ARK: Survival Evolved servers.
 - **[Cardmarket Price Updater](https://github.com/ProfessorShroom/Cardmarket-Price-Updater)** <br>
   A C# based GUI that gets prices from Cardmarket based on spreadsheet contents for collection value purposes in either GBP (£) or EUR (€).
 - **[ProfessorShroom Scripts](https://github.com/ProfessorShroom/ProfessorShroom-Scripts)** <br>

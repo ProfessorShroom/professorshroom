@@ -75,8 +75,6 @@
 
 - **[PlutoPoint Automatic Software Installer](https://github.com/ProfessorShroom/PlutoPoint-Installer)** *(Computer Repair Centre Installer)* <br>
   A GUI built in C# for installing various user-selected software and options for new Windows 10 & 11 installations.
-- **[PlutoPoint ARK: Survival Evolved Server Manager](https://github.com/ProfessorShroom/PlutoPoint-ASE-Server-Manager)** <br>
-  A docker web based interface to install, manage, modify and backup ARK: Survival Evolved servers.
 - **[Cardmarket Price Updater](https://github.com/ProfessorShroom/Cardmarket-Price-Updater)** <br>
   A C# based GUI that gets prices from Cardmarket based on spreadsheet contents for collection value purposes in either GBP (£) or EUR (€).
 - **[ProfessorShroom Scripts](https://github.com/ProfessorShroom/ProfessorShroom-Scripts)** <br>

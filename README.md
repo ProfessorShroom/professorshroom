@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/17574576?v=4"  />
+  <img height="150" src="https://raw.githubusercontent.com/ProfessorShroom/professorshroom/a89e24cd13360763dee5002bd43d243a666980f2/ProfessorShroom%20Logo%20Modern.svg"  />
 </div>
 
 ###

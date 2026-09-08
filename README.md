@@ -15,6 +15,16 @@
     <img src="https://img.shields.io/badge/professorshroom.com-8103FF?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="professorshroom.com">
   </a>
 </p>
+<p align="center">
+  <a href="https://professorshroombinders.com">
+    <img src="https://img.shields.io/badge/professorshroombinders.com-8103FF?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="professorshroombinders.com">
+  </a>
+</p>
+<p align="center">
+  <a href="https://wuphf.co.uk">
+    <img src="https://img.shields.io/badge/wuphf.co.uk-FF5000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="wuphf.co.uk">
+  </a>
+</p>
 
 ###
 

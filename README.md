@@ -9,12 +9,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=professorshroom.professorshroom&"  />
-</div>
-
-###
-
 <h3 align="center">Hey, I'm ProfessorShroom! 🍄</h3>
 <p align="center">
   <a href="https://professorshroom.com">
